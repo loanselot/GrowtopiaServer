@@ -16,6 +16,9 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 **********************************************************************************/
 
+/*
+Hello, im from turkey im 17 years old and im coding c# c++ im like kidding with other skids. They think im kids but im just kidding with they and laughing.
+*/
 
 #include "stdafx.h"
 #include <iostream>
